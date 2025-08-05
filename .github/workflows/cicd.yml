@@ -30,7 +30,6 @@ jobs:
 
       - name: Build the project
         run: npm run build
-
       # Configure Git identity
       - name: Configure Git
         run: |
